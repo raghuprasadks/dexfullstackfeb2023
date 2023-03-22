@@ -1,0 +1,31 @@
+<div>
+    <h1>Employee Template Driven Form</h1>
+    <form #regForm="ngForm" (ngSubmit)="RegisterEmployee(regForm)">
+    <label for="code">Enter Employee Code</label><br>
+    <input type="number" name="code" id="code" ngModel required><br>
+    <label for="roi">Enter Name</label><br>
+    <input type="text" name="name" id="name" ngModel required><br>
+    <label for="sal">Enter salary</label><br>
+    <input type="number" name="sal" id="sal" ngModel required><br>
+    <input type="submit" [disabled]="isDisabled" value="Add Employee"><br>
+</form>   
+    </div>
+
+    <div>
+        <h1>Employee List</h1>
+        <h2>Total Number of Employees : {{regusers.length}}</h2>
+            <table>
+                <tr>
+                    <th>Code</th>
+                    <th>Name</th>
+                    <th>Salary</th>
+                </tr>
+                <tr *ngFor="let usr of regusers">
+                    <td>{{usr.code}}</td>
+                    <td>{{usr.name}}</td>
+                    <td>{{usr.sal}}</td>
+                </tr>
+
+            </table>        
+    </div>
+    

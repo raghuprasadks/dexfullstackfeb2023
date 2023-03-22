@@ -1,0 +1,21 @@
+Java Script frameworks
+Angular - front end framework
+
+Backend frameworks
+Node.js - Java Script server side programming environment
+
+v8 engine - chrome - back end run time environment
+
+Framework on top of node.js
+Express.js - Backend API
+MongoDB - NoSQL database
+Document database
+RDBMS -MS SQL,MYSQL
+
+JS and JS library
+node 1-node-gettingstarted.js
+
+nodemon
+npm install -g nodemon
+
+nodemon 1-node-gettingstarted.js

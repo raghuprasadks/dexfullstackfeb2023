@@ -1,0 +1,60 @@
+Agenda
+
+parent-child,pipes in angular
+
+1. End to end integration of Angular with Web API
+a. create a endtoenddb
+b. create a table products
+having following fields
+id -int,pk,identity
+name - string
+desc - string
+supplier -string
+price - int
+c. create a project webapitest
+create ProductsController
+with CRUD operation
+
+
+Front end Development
+a. Develop front for GET and post methods
+of product webapi
+https://www.stackhawk.com/blog/angular-cors-guide-examples-and-how-to-enable-it/
+
+Weekly test
+Aman
+Mukesh Manikandan - api method names were not correct
+
+late submission
+Vedanti
+Shivani
+Survesh
+
+Cross-Origin Resource Sharing (CORS)
+
+webapi - https://localhost:44384/api/products
+front end  - localhost:4200
+
+middleware cors
+
+nuget package manager
+install cors
+
+webapicors
+
+step 1 -
+nugetpackage manager
+microsoft.aspnet.cors
+microsoft.aspnet.webapi.cors
+
+Step 2-
+
+
+
+
+
+
+2. Introduction to Node.js
+Express.js
+
+

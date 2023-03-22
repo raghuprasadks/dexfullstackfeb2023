@@ -1,0 +1,7 @@
+D:\kaushalya\consultancy\ilinkdigital\2023\DEX\C#\ConsoleAppBasics\ConsoleAppBasics\bin\Debug\ConsoleAppBasics.exe.config
+D:\kaushalya\consultancy\ilinkdigital\2023\DEX\C#\ConsoleAppBasics\ConsoleAppBasics\bin\Debug\ConsoleAppBasics.exe
+D:\kaushalya\consultancy\ilinkdigital\2023\DEX\C#\ConsoleAppBasics\ConsoleAppBasics\bin\Debug\ConsoleAppBasics.pdb
+D:\kaushalya\consultancy\ilinkdigital\2023\DEX\C#\ConsoleAppBasics\ConsoleAppBasics\obj\Debug\ConsoleAppBasics.csproj.AssemblyReference.cache
+D:\kaushalya\consultancy\ilinkdigital\2023\DEX\C#\ConsoleAppBasics\ConsoleAppBasics\obj\Debug\ConsoleAppBasics.csproj.CoreCompileInputs.cache
+D:\kaushalya\consultancy\ilinkdigital\2023\DEX\C#\ConsoleAppBasics\ConsoleAppBasics\obj\Debug\ConsoleAppBasics.exe
+D:\kaushalya\consultancy\ilinkdigital\2023\DEX\C#\ConsoleAppBasics\ConsoleAppBasics\obj\Debug\ConsoleAppBasics.pdb

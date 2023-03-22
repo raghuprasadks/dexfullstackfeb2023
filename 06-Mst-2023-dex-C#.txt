@@ -1,0 +1,51 @@
+Inheritance - parent and child class
+Polymorphism - method overload,method override
+abstraction - interface,abstract class
+databinding - access modifiers
+encapsulation
+internal,public,private,protected
+
+seal
+final
+
+dll
+executable
+
+assembly
+
+getter and setter - property
+
+private int balance;
+
+setBalance(int bal)
+{
+this.balance = bal;
+}
+
+getBalance(){
+return this.balance;
+}
+
+
+1.setter/getters
+2. Generics - 
+int,string,float
+object as a parameter
+
+generic
+
+collections
+
+movie - queue
+
+plates ... stack
+
+list of books
+list,set,queue,map
+
+datastructures
+
+array - static - cann't increase size
+arraylist - dynamic - automatically increases the size
+
+3. Collections - ArrayList

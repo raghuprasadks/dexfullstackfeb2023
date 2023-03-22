@@ -1,0 +1,14 @@
+tr,td{
+    border:1px solid blue
+}
+
+th{
+    border:1px solid blue;
+    background-color: green;
+    color: white;
+    font-weight: bold;
+}
+
+div{
+    text-align: left;
+}

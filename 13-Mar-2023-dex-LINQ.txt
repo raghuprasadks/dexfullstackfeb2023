@@ -1,0 +1,24 @@
+Review of Assignment - done
+1. LINQ - Language Integrated Query
+SQL - table
+select * from table
+
+Objects - write query 
+flat file-csv,json
+sql - LINQ
+https://www.tutorialsteacher.com/linq
+select * from names
+where name like '%a%'
+from name in names
+where name.Contains('a')
+select name
+
+
+select * from student where
+age >12 and age<18
+
+select * from student
+where name='Bill'
+select * from student
+where id = 5
+2. Weekly test 1 hours 12 noon

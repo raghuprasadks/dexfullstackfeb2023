@@ -1,0 +1,85 @@
+1.loops,conditionalstatements,operators,class,objects,constructors
+
+Agenda:
+Arrays,
+oops - Inheritance,polymorphism,abstraction and encapsulation
+Visual studio 2019
+
+Array - more than one value at a time
+
+string[] fruits={"Apple","Banana","Mango"};
+
+built-in functions
+
+[3:37 PM] Vishva Nileshchandra Shah
+Vishva Shah - MCA
+
+[3:37 PM] Mukesh Manikandan M
+Mukesh manikandan M--CSE
+
+[3:37 PM] Ajinkya Sahebrao Mondhe
+Ajinkya Mondhe - E&TC
+
+[3:37 PM] Aman Malviya
+
+
+--- OOPS
+
+Inheritance
+parent - child relationship
+
+polymorphism - many forms
+method overload/method override
+Aman malviya- Btech -Computer science
+
+[3:37 PM] Rohit Ramchandra Shinde
+Rohit Shinde MCA
+
+[3:37 PM] Abitha A
+Abitha - ECE
+
+[3:37 PM] Shivani R
+Shivani R -CSE
+
+[3:37 PM] Maheshwaran P
+Maheshwaran P-CSE 
+
+[3:37 PM] Balamurugan G
+Balamurugan G -ECE
+
+[3:37 PM] Srithy P
+Srithy- CSE
+
+[3:37 PM] Kamalesh K
+Kamalesh- B.Tech
+
+[3:37 PM] Durvankur Balkawade
+Durvankur Balkawade - MSc(Computer Science)
+
+[3:37 PM] Kamalesh K
+iT
+
+[3:37 PM] Chandru A
+Chandru - Electrical and Electronics 
+
+[3:38 PM] Rahul Singh Parihar
+Rahul Singh Parihar -B.Tech -CSE 
+
+[3:38 PM] Kamalesh K
+Kamalesh -Information Technology
+
+Abstraction:Interface,Abstract Class
+Interface - method signature
+
+
+1. Create IMath Interface
+having following methods
+add(int n1,int n2)
+subtact(int n1,int n2)
+multiply(int n1,int n2)
+divide(int n1,int n2)
+
+2. Create Calculator class to implement IMath interface
+
+3. Create CalculatorTest Class to demonstate functioning
+of Calculator

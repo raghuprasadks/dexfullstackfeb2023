@@ -1,0 +1,100 @@
+1. Visual Studio Code
+2. Required software - node,angular
+
+Angular - Java Script Front End framework
+
+Component
+SPA - Single Page Application
+Java Script - JQuery - library
+Angular.js
+React.js
+View.js
+
+Front End
+Back End
+
+MVC - Razor page
+.NET Web API - back end
+Angular - front end
+React - front end
+Android - front end
+Web Services
+Component - Controller, View,data
+Databinding
+Routing
+Pipes
+Services
+
+node.js
+
+Step 1 - Install node.js
+Step 2 - Install Visual Studio Code community edition
+Step 3 - Install angular using npm
+npm - node package manager
+nuget - .net
+Google
+https://angular.io/
+
+Node.js is java script server side environment
+
+https://nodejs.org/en/download/
+
+npm install -g @angular/cli
+
+ng version
+
+ng new angularbasics
+
+
+ng serve --open
+
+http://localhost:4200/
+Flow of exectution
+step 1 - angular.json
+index
+main.ts - 
+ts - type script
+type script is super set of
+java script
+type script - object oriented version of java script
+
+data types
+operators
+ts should be converted
+into js
+2. AppModule
+3. AppComponent
+4. Appcomponent.ts
+class
+@Component
+selector
+templateurl
+styleurl
+
+class - controller
+appcomponent.html - view
+unit testing spec.ts
+
+index.html
+ <app-root></app-root>
+
+@Component
+@NgModule
+registry of components
+services
+pipes
+
+Create a component datatypes
+
+ng g c datatypes
+
+ng g c components/user
+
+https://angular.io/guide/lifecycle-hooks
+
+*ngFor - Directive
+*ngIf - Directive
+Structural Directive
+
+
+

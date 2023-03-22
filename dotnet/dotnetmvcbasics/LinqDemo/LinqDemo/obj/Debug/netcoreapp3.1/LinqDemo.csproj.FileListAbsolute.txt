@@ -1,0 +1,13 @@
+D:\kaushalya\consultancy\ilinkdigital\2023\DEX\dotnet\dotnetmvcbasics\LinqDemo\LinqDemo\bin\Debug\netcoreapp3.1\LinqDemo.exe
+D:\kaushalya\consultancy\ilinkdigital\2023\DEX\dotnet\dotnetmvcbasics\LinqDemo\LinqDemo\bin\Debug\netcoreapp3.1\LinqDemo.deps.json
+D:\kaushalya\consultancy\ilinkdigital\2023\DEX\dotnet\dotnetmvcbasics\LinqDemo\LinqDemo\bin\Debug\netcoreapp3.1\LinqDemo.runtimeconfig.json
+D:\kaushalya\consultancy\ilinkdigital\2023\DEX\dotnet\dotnetmvcbasics\LinqDemo\LinqDemo\bin\Debug\netcoreapp3.1\LinqDemo.runtimeconfig.dev.json
+D:\kaushalya\consultancy\ilinkdigital\2023\DEX\dotnet\dotnetmvcbasics\LinqDemo\LinqDemo\bin\Debug\netcoreapp3.1\LinqDemo.dll
+D:\kaushalya\consultancy\ilinkdigital\2023\DEX\dotnet\dotnetmvcbasics\LinqDemo\LinqDemo\bin\Debug\netcoreapp3.1\LinqDemo.pdb
+D:\kaushalya\consultancy\ilinkdigital\2023\DEX\dotnet\dotnetmvcbasics\LinqDemo\LinqDemo\obj\Debug\netcoreapp3.1\LinqDemo.csproj.AssemblyReference.cache
+D:\kaushalya\consultancy\ilinkdigital\2023\DEX\dotnet\dotnetmvcbasics\LinqDemo\LinqDemo\obj\Debug\netcoreapp3.1\LinqDemo.AssemblyInfoInputs.cache
+D:\kaushalya\consultancy\ilinkdigital\2023\DEX\dotnet\dotnetmvcbasics\LinqDemo\LinqDemo\obj\Debug\netcoreapp3.1\LinqDemo.AssemblyInfo.cs
+D:\kaushalya\consultancy\ilinkdigital\2023\DEX\dotnet\dotnetmvcbasics\LinqDemo\LinqDemo\obj\Debug\netcoreapp3.1\LinqDemo.csproj.CoreCompileInputs.cache
+D:\kaushalya\consultancy\ilinkdigital\2023\DEX\dotnet\dotnetmvcbasics\LinqDemo\LinqDemo\obj\Debug\netcoreapp3.1\LinqDemo.dll
+D:\kaushalya\consultancy\ilinkdigital\2023\DEX\dotnet\dotnetmvcbasics\LinqDemo\LinqDemo\obj\Debug\netcoreapp3.1\LinqDemo.pdb
+D:\kaushalya\consultancy\ilinkdigital\2023\DEX\dotnet\dotnetmvcbasics\LinqDemo\LinqDemo\obj\Debug\netcoreapp3.1\LinqDemo.genruntimeconfig.cache

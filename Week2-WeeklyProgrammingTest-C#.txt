@@ -1,0 +1,34 @@
+1. Create IPLPlayer Class 
+a. Having following properties
+	
+playerid-int
+name-string
+team-string
+season-int
+matches-int
+wickets-int
+runs-int
+
+b. Info method to return above properties
+
+2. Create IPLDashBoard Class
+having following methods
+
+a. AddPlayer(IPLPlayer iplplayer)
+iplplayer to be added to iplPlayers List
+i,e List<IPLPlayer> iplPlayers = new List<IPLPlayer>()
+b. ListPlayers
+information about all players to be displayed
+c. HighestRunGetter(int season)
+Display info about the player who has scored highest
+runs for a given season
+d. ShowStaticstics(String name)
+Display info about the player for all the season
+e. TestIPL()
+Use this method to Create Object of IPLDashboard
+add call above methods.
+Create object of atleast 5 players
+for 2 seasons - ex 2020,2021
+
+
+

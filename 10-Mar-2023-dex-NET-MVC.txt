@@ -1,0 +1,26 @@
+.NET -platform
+for developing different kinds of applications
+consoleapp,web application,WEB MVC,WEB API,
+AR/VR,Gaming
+
+Java  - Virtual Machine
+
+1. NET Core - 3.1 - visual studio 2019
+2. MVC Application
+Web Project .net core mvc,api
+
+ViewData - controller to view
+ViewBag - controller to view
+TempData - controller to view /view to controller
+
+Razor - templating engine - embed C# code inside your
+html
+
+@Html - html helper
+
+foreach (var customer in customers)
+
+
+details
+
+CRUD - Create Read Update Delete

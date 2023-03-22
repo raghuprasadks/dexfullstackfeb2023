@@ -1,0 +1,21 @@
+C#
+.NET 
+Building blocks of any programming language
+
+datatypes,operators,functions,loops,conditional statements
+
+Software requirement - Visual Studio 2019
+
+Banking
+
+Branch - 
+ATM
+Internet banking
+Mobile banking
+chatbot
+
+
+oops - inheritance,polymorphism,abstraction,encapsulation
+
+
+Visual studio code-project - console - C# .net framework

@@ -1,0 +1,90 @@
+1. Inheritance,polymorphism,abstraction
+
+IBank - interface
+HDFCBank :IBank,Bank
+
+SBIBank : IBank,Bank
+
+Bank
+
+vitual rateofinterest()
+simpleInterest()
+
+
+IBank bank = new SBIBank()
+openAccount()
+deposit
+withdraw
+checkbal
+
+Bank bankimpl = new SBIBank()
+bankimpl.simpleInterest(p,bankimpl.rateofinterest(),t)
+
+
+
+Today's class
+collections 
+1. Generics
+2. ArrayList
+3. List
+SortedList - https://www.tutorialsteacher.com/csharp/csharp-sortedlist
+
+4. Exception handling
+
+runtime error
+
+what scenario's exception will arise
+
+division by zero
+array index out of bounds
+null pointer exception
+invalid input
+
+java which key words are used for
+exception handling
+try,catch,finally,throw ,throws
+
+
+
+1. Create Corona class
+having following properties
+statecode (int),statename (string),total,active,recovered,death - all int
+
+and a constructor with above as parameters
+
+Add info method which should return a string
+of all properties
+2. Create CoronaTest class
+
+create CoronaDashBoard list Generics of Corona
+List<Corona> CoronaDashBoard = new List<Corona>();
+
+having following methods..
+
+addCorona(Corona corona)
+this should add the Corona object to CoronaDashBoard
+list
+
+listCorona()
+this should list the corona objects by using info method
+
+delegate(Corona corona)
+you have to delete this from CoronaDashBoard
+
+maxtotalState()
+this should return the state having maximum corona total
+
+
+
+1. Delegate
+
+2. Anonymous Method
+
+3. Event 
+
+
+fire extinguisher
+
+fire occures (event notification)- > use fire extinguisher
+
+

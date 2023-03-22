@@ -1,0 +1,109 @@
+https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-3.1.426-windows-x64-installer
+
+
+1. SQL
+2. C#
+3. .NET
+.NET MVC
+
+Application Framework by Microsoft
+1. Console based application
+2. Web based application
+3. Mobile Application
+4. AR/VR
+5. Gaming
+2002 - Windows platform
+open source/community driven
+
+cross platform
+
+hello.java -intermediatory
+hello.class - bytecode
+
+JVM - Java Vitual Machine
+
+C#,Visual Basic,F#
+<.class/lib>
+<Api>
+<JVM>
+<os>
+
+JDK - Java Development Kit 
+JVM
+ASP. NET
+
+.NET Core - run it on any os
+
+.NET Core
+.NET MVC - Model View Controller based applications
+Web API - web services
+Database - Entity Framework
+
+ORM - Object Relational Mapping
+
+console based application - .NET Framework
+Web Based application
+
+visual studio 2019 .NET Core 3.1
+
+.NET MVC - core
+
+
+M - > Model
+V - > View
+C - > Controller
+
+
+CSS - bootstrap - twitter - responsive web applications
+
+https://localhost:44389/
+
+first mvc application
+
+html - .cshtml - cshap html
+
+C# code
+@{
+
+}
+
+MVC - Make request - controller
+
+gives the view
+
+flow
+program.cs
+main
+startup
+routing
+controller and action
+
+
+Customer crud
+
+Step 1 - create Customer model - Customer.cs - done
+Step 2 - create CustomerController
+Step 3 - create view
+Step 4 - Add this in the header
+
+
+http actions - POST,GET,UPDATE,DELETE
+
+http - web 
+
+Sign up form
+
+
+1. Create Customer module using MVC
+
+name
+email
+mobile
+<signup>
+
+get
+post
+
+file:///D:/kaushalya/consultancy/ilinkdigital/2023/DEX/dotnet/web/singup.html?code=10&name=raghu#
+
+

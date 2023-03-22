@@ -1,0 +1,16 @@
+<h1>Users</h1>
+
+<h2>Total Number of Users : {{users.length}}</h2>
+<table>
+    <tr>
+        <th>Code</th>
+        <th>Name</th>
+        <th>Location</th>
+    </tr>
+    <tr *ngFor="let user of users">
+        <th>{{user.code}}</th>
+        <th>{{user.name}}</th>
+        <th *ngIf="user.isActive">{{user.location}}</th>
+    </tr>
+
+</table>

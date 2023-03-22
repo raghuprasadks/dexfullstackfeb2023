@@ -1,0 +1,28 @@
+C#
+.NET 
+Building blocks of any programming language
+
+datatypes,
+operators - https://www.tutorialsteacher.com/csharp/csharp-operators
+Arithmetic
+comparision/relational operator,
+
+
+1.Write a program to print table of any given number.
+2. Take table as user input
+
+Example
+6
+6 X 1 = 6
+6 X 2 =12
+...
+6 X 10 =60
+
+
+logical operators,assignment operator
+functions,loops,conditional statements
+
+Class and object
+Constructor
+
+

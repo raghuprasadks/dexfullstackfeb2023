@@ -1,0 +1,37 @@
+1. Create an interface IBank having following
+methods
+
+int openAccount(string name,long mobile,string location)
+Implementation class should create an account using randmon functionality and 
+return the same
+int deposit(int actno,int amttodeposit)
+after deposit balance should be incremented.
+Balance should be returned by this function
+
+int withdraw (int actno,int amttowithdraw)
+after withdraw balance should be decrementated.
+Balance should be returned by this function
+
+int checkBal (int actno)
+Balance should be returned by this function
+
+
+2. Create two implementation class
+namely SBIBank and HDFCBank
+they should implement IBank interface
+
+3. SBIBank and HDFCBank are the child of Bank
+
+4. Bank has methods called rateofInterest()
+and simpleInterest(int prin,float roi,int time)
+rateofinterest method should return the rate as a float
+simpleInterest method should return the simple interest
+after using the formulat i=prt/100
+
+5. SBIBank and HDFCBank should override rateofInterest
+method.
+
+6. Create a BankTest class
+to demonstate working of bank namely
+opening an account,deposit,withdraw,checkbalance and finding
+simpleInterest

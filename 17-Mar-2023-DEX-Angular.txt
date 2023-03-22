@@ -1,0 +1,71 @@
+Angular
+
+1. Node.js
+2. Installing angular npm i -g @angular/cli
+3. ng new angularbasics
+4. ng serve --open
+5. Flow index.js and index.html - >angular.json
+6. Module,Component
+
+ng g component <component name>
+ng g c angularbasics
+
+directives - structural directives - change the structure of DOM
+*ngFor
+*ngIf
+
+package.json - registry of libraries
+
+https://angular.io/guide/cheatsheet
+
+
+Calculator component
+
+simple interest calculation
+
+ng g c components/simpleinterest
+
+Data binding
+
+formsmodule - two way data binding
+one way data binding
+ngModel
+
+import formsmodule in module.ts
+
+[] - property binding
+() - event binding
+
+(click)
+
+two way binding combination of property and event
+banana in a box
+[()]
+
+
+[]
+disbled
+
+[disabled]="isDisabled"
+
+
+Form - 
+template driven form - ngForm
+reactive form
+
+ng g c components templateform
+
+#regForm - reference variable
+
+
+class="ng-pristine ng-valid ng-touched"
+
+https://www.geeksforgeeks.org/whats-the-difference-between-ng-pristine-and-ng-dirty-in-angularjs/
+
+
+Angular reference - https://codecraft.tv/courses/angular/quickstart/overview/
+
+
+
+
+

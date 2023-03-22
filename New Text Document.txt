@@ -1,0 +1,21 @@
+1. Random functionality to be used to generate account number
+2. You should use interface reference instead of class in the BankTest Main method
+SBIBank sbi = new SBIBank();
+            HDFCBank hdfc = new HDFCBank();
+
+use
+IBank bank  = new SBIBank()
+
+
+3. Looks like copy as the account names and values are same as that of person who has submitted first
+
+
+1. Interest calculation is not done
+2. Random number is not used for generating account number
+
+
+1. Inheritance is not used
+2. Random number generation for account is not done
+3. Unnecessary property is added in interface
+4. Interest is not calculated 
+5. OpenAccount method is not properly used
