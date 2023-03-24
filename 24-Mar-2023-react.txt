@@ -1,0 +1,62 @@
+Review of the assignment
+
+https://www.npmjs.com/package/mongodb
+
+Asynchronous programming
+
+promise
+
+call function(function as parameter)
+
+success/failure
+
+resolve/reject
+
+async await
+
+
+Project code is provides.
+
+1. git clone
+2. cd to project
+3. code .
+4. look for package.json
+5. cd to that folder which contains package.json
+
+6. npm install
+
+
+
+ATLAS_URI=mongodb+srv://<username>:<password>@sandbox.jadwj.mongodb.net/meanStackExample?retryWrites=true&w=majority
+
+mongodb+srv://kaushalyadb2020:<password>@cluster0.mntsh.mongodb.net/?retryWrites=true&w=majority
+
+
+
+
+Input and output
+Routing
+pipes
+
+
+steps:
+
+1. Create child and parent component in components folder
+
+ng g c components/child
+ng g c components/parent
+
+
+2. Add parent selector to app-component.html
+<app-parent></app-parent>
+
+3. Add child selector to app-parent.html
+<add-child></app-child>
+
+
+
+
+
+
+
+

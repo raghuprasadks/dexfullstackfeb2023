@@ -1,0 +1,6 @@
+<p>parent works!</p>
+
+<app-child [msgToChild]="msg_to_child_from_parent" (childEvent)="msgFromChildEvent($event)"></app-child>
+
+<h1>Message from child : {{msgFromChild}}</h1>
+

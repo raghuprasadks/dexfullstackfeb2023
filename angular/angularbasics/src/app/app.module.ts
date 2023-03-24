@@ -10,6 +10,8 @@ import { FormsModule } from '@angular/forms';
 import { TemplateformComponent } from './components/templateform/templateform.component'; 
 import { HttpClientModule } from '@angular/common/http';
 import { TodoComponent } from './components/todo/todo.component';
+import { ChildComponent } from './components/child/child.component';
+import { ParentComponent } from './components/parent/parent.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +20,9 @@ import { TodoComponent } from './components/todo/todo.component';
     UserComponent,
     SimpleinterestComponent,
     TemplateformComponent,
-    TodoComponent
+    TodoComponent,
+    ChildComponent,
+    ParentComponent
   ],
   imports: [
     BrowserModule,

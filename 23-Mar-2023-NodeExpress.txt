@@ -1,0 +1,131 @@
+Step 1 - Install MongoDB Community edition
+
+Step 2 - Start mongodb server
+
+
+"C:\Program Files\MongoDB\Server\6.0\bin\mongod.exe" --config "C:\Program Files\MongoDB\Server\6.0\bin\mongod.cfg" --service
+
+
+customer - id,name,email
+address - 
+id,home,location,zipcode
+id,office,location,zipcode
+
+RDBMS
+
+
+{
+	"code":1,
+	"address":[{}]
+}
+
+
+
+
+1. create todos collection
+and insert 5 records
+
+2. create users collection
+and insert 2 records
+
+
+Mongo Version 6 onwards
+
+https://www.mongodb.com/try/download/shell
+download shell
+copy content of bin folder
+to the bin folder of mongodb
+
+3. type mongosh
+
+commands:
+
+a. To display database 
+show dbs
+
+b. to get insider a database
+use datbasename
+
+c. display collections
+
+db.product.find()
+
+
+d. create new collection
+
+Mongo Version 6 onwards
+
+https://www.mongodb.com/try/download/shell
+download shell
+copy content of bin folder
+to the bin folder of mongodb
+
+3. type mongosh
+
+commands:
+
+a. To display database 
+show dbs
+
+b. to get insider a database
+use datbasename
+
+c. display collections
+
+db.createCollection("supplier")
+
+d. Insert a document into collection
+
+ db.supplier.insert({"code":1,"name":"supplier 1","city":"chennai","zipcode":494949})
+db.supplier.insert({"code":2,"name":"supplier 2","city":"bengaluru","zipcode":560077})
+
+e. find
+ db.supplier.find({"city":"bengaluru"})
+
+
+f. remove a document
+
+db.supplier.remove()
+
+db.supplier.remove({"city":"bengaluru"})
+
+g. update
+
+db.supplier.update({city:"chennai"},
+{$set:{city:"Chennai new "}});
+
+
+Two library
+used to connnect to mongodb
+mongo client
+
+https://www.w3schools.com/nodejs/nodejs_mongodb.asp
+
+mongoose - 
+
+Integration of Mongo with node/express
+
+step 1 - Install mongodb library
+
+npm install mongodb
+
+
+mongodb://localhost:27017
+
+
+
+MEAN stack
+
+Mongo Express Angular Node
+
+parent child relationship
+pipe
+route
+
+
+
+
+https://www.mongodb.com/languages/mean-stack-tutorial
+
+https://blog.e-zest.com/basic-commands-for-mongodb
+

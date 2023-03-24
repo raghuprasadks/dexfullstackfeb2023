@@ -19,3 +19,30 @@ nodemon
 npm install -g nodemon
 
 nodemon 1-node-gettingstarted.js
+
+
+node.js - pongal
+express js - ready to eat pongal
+
+create expressbasics folder
+open folder this in vs
+in terminal issue npm init command
+
+npm init
+npm i express
+
+
+3.create productapi
+having CRUD with out using db
+
+code,name,desc,supplier,price
+
+api/product - get
+api/product/<code> - get
+api/product - post
+api/produt/<code> - delete
+api/product/<code> - update
+
+
+
+
